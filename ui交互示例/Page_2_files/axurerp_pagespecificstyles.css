@@ -22,3 +22,67 @@ div {
     background-color: transparent;
 }
 
+.u0_container {
+    position:absolute;
+    left:101px;
+    top:2px;
+    width:760px;
+    height:535px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:535px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:260px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Page_2_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:709px;
+    top:79px;
+    width:35px;
+    height:35px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:41px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
